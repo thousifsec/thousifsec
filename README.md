@@ -1,16 +1,56 @@
-## Hi there 👋
+🧑‍💻 thousifsec – Cybersecurity & Pentesting Portfolio
 
-<!--
-**thousifsec/thousifsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" alt="GitHub Logo"/>
+</p>> 🛡️ Aspiring Penetration Tester | Red Team Enthusiast | Cybersecurity Learner
+🎯 Dream: Join top-tier global companies like Google, Microsoft, Meta, Amazon
+🌍 Building a solid portfolio with real-world practicals, tools & writeups
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+---
+
+🚀 About Me
+
+🎓 BBA Graduate turned Cybersecurity Professional
+
+🔐 Specialized in Reconnaissance, Nmap, Enumeration, Web Exploitation, Reverse Shells
+
+🧠 Continuous learner with hands-on labs and tool mastery
+
+📁 All phases of the penetration testing lifecycle documented here with proofs & screenshots
+
+
+
+---
+
+🧰 Skill Stack
+
+Nmap • Burp Suite • Metasploit • Wireshark • Shodan • Recon-ng
+Linux • Kali • Basic Scripting • OWASP Top 10 • Vulnhub/HTB
+
+
+---
+📌 Featured Projects (Pinned Repos)
+
+✅ Reconnaissance Phase – OSINT, WHOIS, DNS, Shodan, theHarvester
+
+✅ Scanning & Enumeration – Nmap, SMB, FTP, Banner Grabbing
+
+✅ Web Attacks – SQLi, XSS, File Inclusion
+
+✅ Shells – Reverse Shell, Bind Shell, Metasploit Payloads
+
+
+
+---
+
+📫 Connect With Me
+
+🔗 LinkedIn Profile (Coming Soon)
+
+🗂️ GitHub: github.com/thousifsec
+
+
+
+---

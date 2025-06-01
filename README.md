@@ -54,3 +54,10 @@ Linux • Kali • Basic Scripting • OWASP Top 10 • Vulnhub/HTB
 
 
 ---
+<p align="center">
+  <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" width="100" alt="GitHub Logo"/>
+</p>
+
+<h1 align="center">Hi, I'm B. Thousif – Future Cybersecurity Specialist 🔐</h1>
+<p align="center">Aspiring Penetration Tester | Recon & Exploitation Ninja | Building Real-World Skills for MNCs 🌍</p>
+

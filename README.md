@@ -117,7 +117,8 @@ I’m a self-taught cybersecurity enthusiast from Andhra Pradesh, India, committ
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/YOUR-USERNAME)
+[![LinkedIn](www.linkedin.com/in/
+thousif-sec)](https://linkedin.com/in/YOUR-USERNAME)
 [![Twitter](https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter)](https://twitter.com/YOUR-USERNAME)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Coming_Soon-orange?style=for-the-badge&logo=githubpages)](#)
 
